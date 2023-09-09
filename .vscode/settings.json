@@ -1,0 +1,9 @@
+{
+    "editor.formatOnPaste": true,
+    "prettier.requireConfig": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "html.format.enable": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true
+}

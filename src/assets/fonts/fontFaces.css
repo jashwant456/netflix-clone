@@ -1,0 +1,315 @@
+/* Android */
+@font-face {
+    font-family: Android;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Android/Android-400.ttf") format("truetype");
+}
+@font-face {
+    font-family: Android;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Android/Android-Italic-400.ttf") format("truetype");
+}
+@font-face {
+    font-family: Android;
+    font-weight: 400;
+    font-style: hollow;
+    src: url("./Android/Android-Hollow-400.ttf") format("truetype");
+}
+@font-face {
+    font-family: Android;
+    font-weight: 400;
+    font-style: scratch;
+    src: url("./Android/Android-Scratch-400.ttf") format("truetype");
+}
+
+/* Roboto */
+@font-face {
+    font-family: Roboto;
+    font-weight: 900;
+    font-style: italic;
+    src: url("./Roboto/Roboto-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 900;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Black.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: italic;
+    src: url("./Roboto/Roboto-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 700;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: italic;
+    src: url("./Roboto/Roboto-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Roboto/Roboto-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: italic;
+    src: url("./Roboto/Roboto-LightItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 300;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 100;
+    font-style: italic;
+    src: url("./Roboto/Roboto-ThinItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 100;
+    font-style: normal;
+    src: url("./Roboto/Roboto-Thin.ttf") format("truetype");
+}
+
+/* Quicksand */
+@font-face {
+    font-family: Quicksand;
+    font-weight: 700;
+    font-style: normal;
+    src: url("./Quicksand/Quicksand-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Quicksand;
+    font-weight: 600;
+    font-style: normal;
+    src: url("./Quicksand/Quicksand-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Quicksand;
+    font-weight: 500;
+    font-style: normal;
+    src: url("./Quicksand/Quicksand-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: Quicksand;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Quicksand/Quicksand-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: Quicksand;
+    font-weight: 300;
+    font-style: normal;
+    src: url("./Quicksand/Quicksand-Light.ttf") format("truetype");
+}
+
+/* Montserrat */
+@font-face {
+    font-family: Montserrat;
+    font-weight: 900;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 900;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Black.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-ExtraBoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-SemiBoldItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-LightItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 200;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-ExtraLightItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 200;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 100;
+    font-style: italic;
+    src: url("./Montserrat/Montserrat-ThinItalic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Montserrat;
+    font-weight: 100;
+    font-style: normal;
+    src: url("./Montserrat/Montserrat-Thin.ttf") format("truetype");
+}
+
+/* Georgia */
+@font-face {
+    font-family: Georgia;
+    font-weight: 600;
+    font-style: italic;
+    src: url("./Georgia/Georgia-Bold-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Georgia;
+    font-weight: 600;
+    font-style: normal;
+    src: url("./Georgia/Georgia-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Georgia;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Georgia/Georgia-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Georgia;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Georgia/Georgia-Regular.ttf") format("truetype");
+}
+
+/* Calibri */
+@font-face {
+    font-family: Calibri;
+    font-weight: 600;
+    font-style: italic;
+    src: url("./Calibri/Calibri-Bold-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Calibri;
+    font-weight: 600;
+    font-style: normal;
+    src: url("./Calibri/Calibri-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: Calibri;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Calibri/Calibri-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Calibri;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Calibri/Calibri-Regular.ttf") format("truetype");
+}
+
+/* Trebuchet-MS */
+@font-face {
+    font-family: Trebuchet-MS;
+    font-weight: 400;
+    font-style: italic;
+    src: url("./Trebuchet-MS/Trebuchet-MS-Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: Trebuchet-MS;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Trebuchet-MS/Trebuchet-MS-Regular.ttf") format("truetype");
+}
+
+/* Arial */
+@font-face {
+    font-family: Arial;
+    font-weight: 400;
+    font-style: normal;
+    src: url("./Arial/Arial-Regular.ttf") format("truetype");
+}
